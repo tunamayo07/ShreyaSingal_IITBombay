@@ -3,11 +3,11 @@
 Production-ready REST API for extracting line items from medical bills using Google Gemini Vision AI.
 
 ## Features
-- ✅ 95%+ item extraction accuracy
-- ✅ 96%+ total reconciliation accuracy
-- ✅ FREE Google Gemini API (no credit card)
-- ✅ Intelligent duplicate detection
-- ✅ Production-ready deployment
+- 95%+ item extraction accuracy
+- 96%+ total reconciliation accuracy
+- FREE Google Gemini API (no credit card)
+- Intelligent duplicate detection
+- Production-ready deployment
 
 ## Quick Start
 
